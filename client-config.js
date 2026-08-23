@@ -6,7 +6,7 @@
    ===================================================================== */
 
 const CLIENT = {
-  gymName: '[HS SQUARE BODY FUEL FITNESS]',
+  gymName: '[HS SQUARE BODY FITNESS]',
   city: '[Kelambakkam]',
 
   // Country code + number, no + sign or spaces. e.g. 91XXXXXXXXXX
