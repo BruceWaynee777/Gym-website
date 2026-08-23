@@ -87,7 +87,7 @@ function animateCount(el) {
     return;
   }
 
-  const duration = 1400; // ms
+  const duration = 3000; // ms
   const start = performance.now();
 
   function tick(now) {
